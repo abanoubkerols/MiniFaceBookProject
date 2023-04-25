@@ -1,6 +1,6 @@
 # MiniFaceBookProject
 Social Media App 
-<h4><a href="https://frabjous-pixie-1d1deb.netlify.app/index.html"> Project Link</a></h4>
+<h4><a href="https://cerulean-monstera-cce2dd.netlify.app"> Project Link</a></h4>
 <h1>Features of project</h1>
 <ul>
 <li>login user </li>
