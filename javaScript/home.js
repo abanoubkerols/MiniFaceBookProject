@@ -55,7 +55,7 @@ function getPosts(reload = true, page = 1) {
             
             <div class="card shadow-sm my-5">
                 <div class="card-header" >
-                   <SPAN onclick="userInfo(${post.id})">
+                   <SPAN onclick="userInfo(${post.author.id})">
                       <img role="button"src="${post.author.profile_image}" class="border border-3 rounded-circle"  width="40px"
                          height="40px" alt="">
                          <b  role="button">${post.author.username}</b>
