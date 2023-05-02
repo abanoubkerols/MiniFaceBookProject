@@ -15,6 +15,7 @@ body {
     box-shadow: 0px 8px 10px rgba(0, 0, 0, .3);
     line-height: .99;
     text-align: center;
+    z-index: 9999;
 
 
 }
